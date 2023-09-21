@@ -1,4 +1,4 @@
-# LAS Parser
+# LAS 2.0 Parser
 
 **las-parser** is an MFC SDI application designed to parse LAS 2.0 file formats. The main functionality of this application is to enable users to select a Curve Attribute from a combobox. Once a curve is selected, it is then drawn as a polyline, using the curve points parsed from the LAS file corresponding to that attribute.
 
