@@ -2,6 +2,8 @@
 
 **las-parser** is an MFC SDI application designed to parse LAS 2.0 file formats. The main functionality of this application is to enable users to select a Curve Attribute from a combobox. Once a curve is selected, it is then drawn as a polyline, using the curve points parsed from the LAS file corresponding to that attribute.
 
+![LAS Parser Screenshot](https://raw.githubusercontent.com/Hoosayin/las-parser/master/screenshot.png)
+
 ## What is LAS?
 
 **LAS**, or Log ASCII Standard, is a file format commonly used in the oil and gas industry to store well log data. It defines a standardized way of representing well log data in a plain text format. LAS files contain information about various aspects of the wellbore, including depth, curve data, and more.
