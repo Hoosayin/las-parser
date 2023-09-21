@@ -14,4 +14,6 @@ The Combo Box in the application is populated with available Curve Attributes. C
 
 ## Environment
 
-This project was developed using Visual Studio 2019 with Platform Toolset v142.
+- **IDE:** Visual Studio 2022
+- **PROGRAMMING LANGUAGE:** C++
+- **TOOLSET:** v142
